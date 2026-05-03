@@ -1,7 +1,5 @@
 # nvim config
 
-Minimal Neovim config in Lua, focused on C development.
-
 ## Requirements
 
 - Neovim >= 0.11
